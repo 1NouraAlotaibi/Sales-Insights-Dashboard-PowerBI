@@ -21,9 +21,9 @@
 * [cite_start]**Market Reach:** The business maintains a strong presence across **257 active cities**, with the **Consumer Segment** being the primary driver of total sales (45.91%)[cite: 182, 188, 196].
 
 ## Screenshots
-![Global Performance](Global_Performance_Dashboard)
-![Product Profitability](Product_Profitability_Analysis)
-![Customer Logistics](Customer_Logistics_Insights)
+![Global Performance](Global_Performance_Dashboard.png)
+![Product Profitability](Product_Profitability_Analysis.png)
+![Customer Logistics](Customer_Logistics_Insights.png)
 
 ## Tools Used
 * **Power BI Desktop** (Data Visualization & DAX)
